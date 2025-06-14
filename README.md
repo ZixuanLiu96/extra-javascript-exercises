@@ -110,10 +110,6 @@ longestIncreasingSubseq([1, 2, 1, 2, 3, 0, 1]); // 3 (2,3,0 doesn't count becaus
 
 ## Set 2
 
-Perfect! Here's a second set of **10 JavaScript exercises**, also limited to `for`, `if`, variables, strings, arrays, and simple logic — no higher-order functions or built-in array methods like `.map()` or `.filter()`.
-
----
-
 ### 🟢 Easy
 
 #### 1. **Find the smallest number**
